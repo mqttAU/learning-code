@@ -18,6 +18,7 @@ learning and/or refreshing knowledge and syntax of different langs and practisin
  GoLang:<br>
  https://www.youtube.com/watch?v=yyUHQIec83I<br>
  https://www.youtube.com/watch?v=YS4e4q9oBaU<br>
+ https://www.youtube.com/watch?v=jFfo23yIWac<br>
  
  C:<br>
  https://www.youtube.com/watch?v=KJgsSFOSQv0<br>
