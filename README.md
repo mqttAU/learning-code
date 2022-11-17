@@ -1,5 +1,5 @@
 # learning-code
-learning/refreshing knowledge and practising a range of leetcode questions and different languages.
+learning/refreshing knowledge/syntax and practising a range of leetcode questions and different languages.
 
 
  Resources:
