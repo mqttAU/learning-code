@@ -6,3 +6,6 @@ print(friends)
 friends.insert(1, "Kelly")
 friends.remove("Jim")
 print(friends)
+
+print(friends.count("Jim"))
+print(friends.sort())
