@@ -16,3 +16,41 @@
 #otherwise
     #I order a salad
 
+#simple if statement using boolean variables
+is_male = False
+is_tall = False
+
+if is_male or is_tall:
+    print("You are a male or tall or both")
+else:
+    print("You neither male nor tall")
+
+
+
+if is_male and is_tall:
+    print("You are a tall male")
+elif is_male and not(is_tall):
+    print("You are a short male")
+elif not is_male and is_tall:
+    print("You are not a male but are tall")
+else:
+    print("You are not male and not tall")
+    
+    
+# if statements and comparisons, instead of using boolean vars can compare different values (numbers, strings)
+
+def max_num(num1, num2, num3):
+    if num1 >= num2 and num1 >= num3:
+        return num1
+    elif num2 >= num1 and num2 >= num3:
+        return num2
+    else:
+        return num3
+
+print(max_num(300, 40, 5))
+
+# some comparison operators are != means not equal, == equal, >= greater than or equal, <= smaller than or equal
+
+
+
+
