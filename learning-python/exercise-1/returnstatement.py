@@ -5,3 +5,5 @@ def cube(num):
 result = cube(4)
 print(result)
 print(cube(3))
+
+#exercises for practise

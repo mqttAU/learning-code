@@ -8,3 +8,5 @@ print(friends[1:3]) # will grab all names from karen to vivian, specify ranges
 # can change the index position as well, useful when modifying values inside arrays
 friends[1] = "Vivian"
 print(friends[1:3])
+
+#exercises for practise

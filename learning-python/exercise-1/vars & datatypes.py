@@ -13,3 +13,5 @@ print("but didn't like being " + character_age + ".")
 # print("he was 35 years old. ")
 # print("He really liked the name Mqtt, ")
 # print("but didn't like being 35.")
+
+#exercises for practise

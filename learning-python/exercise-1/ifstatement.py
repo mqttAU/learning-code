@@ -51,6 +51,8 @@ print(max_num(300, 40, 5))
 
 # some comparison operators are != means not equal, == equal, >= greater than or equal, <= smaller than or equal
 
+#exercises for practise
+
 
 
 

@@ -36,3 +36,5 @@ print(floor(4.14598234)) # rounds to the floor number
 print(ceil(4.14598234)) # rounds up
 
 print(sqrt(36)) # calculates the square root
+
+#exercises for practise

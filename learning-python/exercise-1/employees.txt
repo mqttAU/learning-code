@@ -1,0 +1,6 @@
+#this file is for readingfile.py
+text here
+employees:
+1. matt
+2. matt
+3. matt

@@ -18,3 +18,5 @@ print(phrase[0]) # prints variable character 0 is first letter/numb of var 1 is 
 print(phrase.index("tt")) # prints number of where the string is indexed
 
 print(phrase.replace("mqtt", "ttqm")) # replaces
+
+#exercises for practise

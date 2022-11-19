@@ -8,3 +8,5 @@ def say_hi(name, age):
 
 say_hi("Mqtt", 35)
 say_hi("Matt", 25)
+
+#exercises for practise

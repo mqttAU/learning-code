@@ -9,3 +9,5 @@ print(friends)
 
 print(friends.count("Jim"))
 print(friends.sort())
+
+#exercises for practise
